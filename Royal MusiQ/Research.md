@@ -6,7 +6,7 @@
 
 **Amogelang R. Pelo**
 
-> Text edition of the original research paper. All research text, source references and figure captions are retained; the cover photograph and embedded graphs are not included. The graphs can be regenerated using [analysis.py](analysis.py).
+> Text edition of the original research paper. All research text, source references and figure captions are retained; the cover photograph and embedded graphs are not included. The graphs can be regenerated using [analysis.py](data/analysis.py).
 
 
 ## Contents
