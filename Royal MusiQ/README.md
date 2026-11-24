@@ -1,0 +1,3 @@
+# Royal MusiQ research — reproducibility supplement
+
+Run `python analysis.py` with Python 3, numpy, pandas and matplotlib installed. It recreates the figures and CSV files from manually transcribed public snapshots. The paper contains source URLs, capture dates, methodological caveats and model definitions. The sample is exploratory and the age labels are performance comparisons, not estimates of Royal MusiQ's actual age. TikTok values are rounded by the provider. The social comparison uses non-synchronised captures and YouTube channel scopes differ across providers. The forecasting data consist of five overlapping weekly observations of a rolling monthly count.
